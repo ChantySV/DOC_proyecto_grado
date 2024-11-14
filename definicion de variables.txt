@@ -1,0 +1,5 @@
+1.1.	DEFINICIÓN DE VARIABLES 
+Variable Independiente: Sistema centralizado de administración de inventarios basado en ISO 27001 e ISO 27002.
+Esta es la variable que se manipula o introduce, y se espera que influya en la eficiencia técnica y la seguridad de la información en las ópticas. Es el supuesto "causante" de los cambios que se desean observar en el estudio.
+Variable Dependiente: Eficiencia técnica y seguridad de la información en las ópticas.
+Esta variable se mide para observar cómo cambia en respuesta a la implementación del sistema centralizado. Es el "efecto" o resultado que se espera que mejore debido a la introducción de la variable independiente.
